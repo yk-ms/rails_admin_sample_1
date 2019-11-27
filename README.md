@@ -1,0 +1,1 @@
+# rails_admin_sample_1
